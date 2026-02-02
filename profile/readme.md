@@ -2,7 +2,7 @@
 ### Batch 2024 - 2028
 Roll No | Name | Repo URL | Leetcode URL | Current Status
 --- | --- | --- | --- | ---
-1 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+1 | Adithya G | [Github](https://github.com/brain2bitss/leetcode-tracker) | [Leetcode](https://leetcode.com/u/TVRUzKX5vd/) | ![](https://leetcard.jacoblin.cool/TVRUzKX5vd)
 2 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 3 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 4 |Deebika E  | [Github](https://github.com/Deebika-E/Leetcode-solve) | [Leetcode](https://leetcode.com/u/3d6IxNLt13/) | ![](https://leetcard.jacoblin.cool/3d6IxNLt13)
