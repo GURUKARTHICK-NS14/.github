@@ -25,7 +25,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 21 | Joel Anand L V | [Github](https://github.com/joelanand2006/leetcode-solution) | [Leetcode](https://leetcode.com/u/joelanand/) | ![](https://leetcard.jacoblin.cool/joelanand)
 22 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 23 | KAVIN PRASATH K | [Github](https://github.com/Kavin-sudo1/leetcode-daily-practice) | [Leetcode](https://leetcode.com/u/Kavin-2006/) | ![](https://leetcard.jacoblin.cool/Kavin-2006)
-24 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+24 | KEERTHANA K | [Github](https://github.com/keerthana021006/leetcodesolutions) | [Leetcode](https://leetcode.com/u/keerthana0206/) | ![](https://leetcard.jacoblin.cool/keerthana0206)
 25 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 26 |  Logeshwari T | [Github](https://github.com/24149026-oss/leetcode-solution) | [Leetcode](https://leetcode.com/u/Logeshwari09/) | ![](https://leetcard.jacoblin.cool/Logeshwari09) 
 27 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
