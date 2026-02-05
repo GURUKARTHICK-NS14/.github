@@ -45,7 +45,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 41 | Priyadharshini V | [Github](https://github.com/Priya-0067/leetcode-solution) | [Leetcode](https://leetcode.com/u/Priyadharshini_006/) | ![](https://leetcard.jacoblin.cool/Priyadharshini_006)
 42 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 43 | Ragul P | [Github](https://github.com/ragulperiyasamy24/leetcode-treacker) | [Leetcode](https://leetcode.com/u/rag_rag/) | ![](https://leetcard.jacoblin.cool/rag_rag)
-44 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+44 | Rohit Raja P A | [Github](https://github.com/rohitrajarohitraja31-dot/leetcode-tracker) | [Leetcode](https://leetcode.com/u/RohitRaja45/) | ![](https://leetcard.jacoblin.cool/RohitRaja45)
 45 | Ruthrapriya K | [Github](https://github.com/ruthrapriya1312-stack/ruthra_leetcode) | [Leetcode](https://leetcode.com/u/Ruthra_priya/) | ![](https://leetcard.jacoblin.cool/Ruthra_priya)
 46 | SABARMATHI M | [Github](https://github.com/SABARMATHI16/leetcodetracksabari) | [Leetcode](https://leetcode.com/u/sabarmathi_/) | ![](https://leetcard.jacoblin.cool/sabarmathi_)
 47 | SAMIKSHA R | [Github](https://github.com/SamikshaR07/leetcodetrackersamiksha) | [Leetcode](https://leetcode.com/u/Samiksha3007/) | ![](https://leetcard.jacoblin.cool/Samiksha3007)
